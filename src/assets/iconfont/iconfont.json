@@ -1,0 +1,72 @@
+{
+  "id": "2544534",
+  "name": "yueting",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "13280069",
+      "name": "随机播放",
+      "font_class": "suijibofang",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "20808356",
+      "name": "循环播放",
+      "font_class": "xunhuanbofang",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "3057296",
+      "name": "顺序播放",
+      "font_class": "shunxubofang",
+      "unicode": "e6ba",
+      "unicode_decimal": 59066
+    },
+    {
+      "icon_id": "17455602",
+      "name": "MV",
+      "font_class": "MV",
+      "unicode": "e634",
+      "unicode_decimal": 58932
+    },
+    {
+      "icon_id": "3755128",
+      "name": "播放",
+      "font_class": "bofang",
+      "unicode": "e625",
+      "unicode_decimal": 58917
+    },
+    {
+      "icon_id": "14545691",
+      "name": "播放",
+      "font_class": "zanting",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "16418498",
+      "name": "上一首 (2)",
+      "font_class": "shangyishou",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "21564315",
+      "name": "上一首 (2)",
+      "font_class": "xiayishou",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    },
+    {
+      "icon_id": "13864085",
+      "name": "搜索--1",
+      "font_class": "soushuo",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    }
+  ]
+}
